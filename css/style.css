@@ -1,0 +1,33 @@
+.circle:hover {
+    r: 4px;
+    fill: #e91e63 ;
+    stroke: #e91e63 ;
+    stroke-width: 3px;
+    cursor: pointer;
+}
+
+footer h3 {
+	background: rgba(0,0,0,0.7);
+	color: white;
+	padding: 7px;
+}
+
+span {
+	color: #d81b60;
+}
+
+sv {
+	color: #4a148c;
+}
+
+aj {
+	color: #00e676;
+}
+
+js {
+	color: #d4e157;
+}
+
+jq {
+	color: #e65100;
+}
